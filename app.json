@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Miss Francine Game",
-    "slug": "missfrancinegame",
+    "slug": "miss-francine",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
