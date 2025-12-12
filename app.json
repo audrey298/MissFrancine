@@ -24,10 +24,9 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "extra": {
-      "eas": {
-        "projectId": "METS ICI LE PROJECT ID EXPO"
-      }
+      "extra": {
+    "eas": {
+      "projectId": "71542995-5f29-4265-a03c-526df1551b5c"
     }
   }
-}
+
